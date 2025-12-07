@@ -48,3 +48,4 @@ Ensure that the implementation follows object-oriented design principles and pro
 
 
 # UML Diagram
+![UML Class Diagram](https://github.com/tricialabbao/Lab-Assign-6-Observer_Pattern/blob/main/ObserverPattern.jpeg)
